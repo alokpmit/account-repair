@@ -1,3 +1,9 @@
+debathena-account-repair (1.0-0debathena3) unstable; urgency=medium
+
+  * Replace python-support with dh-python
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Fri, 17 Jun 2016 20:57:36 -0400
+
 debathena-account-repair (1.0-0debathena2) unstable; urgency=low
 
   * Update xsession name to "Athena: Repair My Account" so it appears
